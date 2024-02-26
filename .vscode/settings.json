@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/4640e70d-f727-49b4-aa26-1cd01d6dfe5f/resourceGroups/bankapp/providers/Microsoft.Web/sites/emilio-bankapp"
+}
